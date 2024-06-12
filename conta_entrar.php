@@ -10,7 +10,7 @@
 
 <body>
     <div class="container">
-        <form action="home.html" method="post">
+        <form action="principal.html" method="post">
 
             <div id="entrar">
                 <div class="container">
