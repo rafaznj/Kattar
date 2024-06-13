@@ -8,6 +8,7 @@
 </head>
 
 <body>
+    <form>
     <div class="container">
         <div class="row">
             <div class="col-md-12">
@@ -15,16 +16,21 @@
             </div>
 
             <div class="col-md-6">
-               
-                <input type="button" class="btn btn-success" value="Cooperativa">
+
+                <input type="submit" class="btn btn-success" value="Cooperativa" formaction="conta_criar_cooperativa.php">
+
+
             </div>
             <div class="col-md-6">
-                <input type="button" class="btn btn-sucess" value="Pessoa">
+
+                <input type="submit" class="btn btn-success" value="Cidadão" formaction="conta_criar_pessoa.php">
+
             </div>
 
         </div>
 
     </div>
+    </form>
 </body>
 
 </html>

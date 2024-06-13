@@ -63,6 +63,11 @@ input[type="submit"]
     width: 100%;
 }
 
+input[type="button"]
+{
+    width: 100%;
+}
+
 
 #logoTopo
 {

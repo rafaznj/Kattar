@@ -13,10 +13,7 @@
         <div class="row">
 
 
-<div class="col-md-12">
-    <img src="imagens/reciclagem_maos.png" alt="Kattar Logo" class="img-fluid" id="logoTopo">
-    <h1 style="color: #278C40;">Kattar</h1>
-</div>
+            <?php require "cabecalho_pagina.php" ?>
 
             <div class="col-md-12">
                 <textarea class="form-control" name="descricao" placeholder="Descrição do material a ser coletado"></textarea>
@@ -42,24 +39,26 @@
                 <input type="file" class="form-control">Selecione uma foto sobre o item
             </div>
 
-            
+
 
         </div>
 
         <div class="row">
-                        <div class="col-md-12" style="text-align: left;">
+            <div class="col-md-12" style="text-align: left;">
 
 
-                            <input type="submit" class="btn btn-success" value="Solicitar">
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-md-12" style="text-align: left;">
+                <input type="submit" class="btn btn-success" value="Solicitar">
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12" style="text-align: left;">
 
 
-                            <input formaction="index.php" type="submit" class="btn btn-danger" value="Voltar">
-                        </div>
-                    </div>
+                <input formaction="index.php" type="submit" class="btn btn-danger" value="Voltar">
+            </div>
+        </div>
+
+        <?php require "rodape.php" ?>
 
 
 

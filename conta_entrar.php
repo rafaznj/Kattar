@@ -10,7 +10,7 @@
 
 <body>
     <div class="container">
-        <form action="home.html" method="post">
+        <form method="post">
 
             <div id="entrar">
                 <div class="container">
@@ -40,7 +40,7 @@
                         <div class="col-md-12" style="text-align: left;">
 
 
-                            <input type="submit" class="btn btn-success" value="Entrar">
+                            <input type="submit" class="btn btn-success" formaction="home.php" value="Entrar">
                         </div>
                     </div>
                     <div class="row">
