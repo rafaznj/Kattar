@@ -20,8 +20,8 @@
                     <h1 style="color: #278C40;">Kattar</h1>
                     <h1>Bem-vindo!</h1>
                     <div class="button-container">
-                        <button class="btn btn-sucess" formaction="entrar_conta.php">Entrar</a>
-                        <button class="btn btn-sucess" formaction="criar_conta.php">Criar conta</a>
+                        <button class="btn btn-sucess" formaction="conta_entrar.php">Entrar</a>
+                        <button class="btn btn-sucess" formaction="conta_criar.php">Criar conta</a>
                     </div>
                 </div>
             </div>
