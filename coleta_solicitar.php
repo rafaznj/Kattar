@@ -22,11 +22,12 @@
             <div class="col-md-6">
 
                 <select name="materiais" class="form-control">
-                    <option style="background-color: #99AA00" ;>Metal</option>
-                    <option style="background-color: #008855" ;>Papel</option>
-                    <option>Plástico</option>
-                    <option>Vidro</option>
-
+                    <option>Selecione o tipo do material</option>
+                    <option style="background-color: #FFF500;">Metal</option>
+                    <option style="background-color: #0012FF;">Papel</option>
+                    <option style="background-color: #FF0000;">Plástico</option>
+                    <option style="background-color: #00FF0A;">Vidro</option>
+                    <option>Outro</option>
                 </select>
 
             </div>
@@ -36,7 +37,8 @@
             </div>
 
             <div class="col-md-12">
-                <input type="file" class="form-control">Selecione uma foto sobre o item
+                <label>Selecione uma foto sobre o item</label>
+                <input type="file" class="form-control">
             </div>
 
 

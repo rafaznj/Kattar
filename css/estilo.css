@@ -46,12 +46,6 @@ body {
     font-size: 1.2em;
 }
 
-/*
-.entrar button{
-    color: ;
-}
-*/
-
 input,button,select,textarea
 {
     margin-top:5px;
@@ -72,6 +66,12 @@ input[type="button"]
 #logoTopo
 {
     height: 64px;
+}
+
+table a {
+    text-decoration: none;
+    color: #000;
+    cursor: pointer;
 }
 
 
