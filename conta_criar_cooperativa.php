@@ -31,9 +31,7 @@
 
         <div class="row">
             <div class="col-md-12" style="text-align: left;">
-
-
-                <input type="submit" class="btn btn-success" value="Criar Conta">
+                <input formaction="" type="submit" class="btn btn-success" value="Criar Conta">
             </div>
         </div>
         <div class="row">

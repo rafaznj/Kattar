@@ -28,20 +28,20 @@
                         </div>
                 
                         <div class="col-md-6">
-                            <input type="email" class="form-control" placeholder="CNPJ da cooperativa">
+                            <input type="text" class="form-control" placeholder="CNPJ da cooperativa">
                         </div>
                    
                         <div class="col-md-6">
                             <input type="password" class="form-control" placeholder="Senha de acesso">
                         </div>
                     </div>
+                    
                     <div class="row">
                         <div class="col-md-12" style="text-align: left;">
-
-
-                            <input type="submit" class="btn btn-success" formaction="home.php" value="Entrar">
+                            <input type="submit" class="btn btn-success" formaction="" value="Entrar">
                         </div>
                     </div>
+
                     <div class="row">
                         <div class="col-md-12" style="text-align: left;">
 
@@ -49,9 +49,6 @@
                             <input formaction="index.php" type="submit" class="btn btn-danger" value="Voltar">
                         </div>
                     </div>
-
-
-
 
                 </div>
         </form>

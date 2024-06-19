@@ -11,6 +11,7 @@
 </head>
 
 <body>
+    <form>
     <div class="container">
         <div class="row">
             <?php require "cabecalho_pagina.php" ?>
@@ -26,9 +27,12 @@
             </div>
         </div>
 
-        <?php require "rodape.php" ?>
+        <div class="fixed-bottom">
+            <?php require "rodape.php" ?>
+        </div>
 
     </div>
-</body>
 
+</form>
+</body>
 </html>
