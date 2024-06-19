@@ -1,3 +1,5 @@
+
+<div class="fixed-bottom">
 <div class="row" style="text-align: center;margin-top:10px">
 
     <div class="col-sm-12">
@@ -10,4 +12,5 @@
             </tr>
         </table>
     </div>
+</div>
 </div>

@@ -27,9 +27,8 @@
             </div>
         </div>
 
-        <div class="fixed-bottom">
+        
             <?php require "rodape.php" ?>
-        </div>
 
     </div>
 
