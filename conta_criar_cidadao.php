@@ -15,7 +15,7 @@
                 <?php require "cabecalho_pagina.php" ?>
 
                 <div class="col-md-12">
-                    <h1 style="color: #278C40;">Criando</h1>
+                    <h1 style="color: #278C40; font-weight: bold;">Criando conta</h1>
                 </div>
 
                 <div class="col-md-6">

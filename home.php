@@ -27,7 +27,6 @@
             </div>
         </div>
 
-        
             <?php require "rodape.php" ?>
 
     </div>

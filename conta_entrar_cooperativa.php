@@ -17,7 +17,7 @@
                         <?php require "cabecalho_pagina.php" ?>
                         
                         <div class="col-md-12">
-                            <h1 style="color: #278C40;">Entrando</h1>
+                            <h1 style="color: #278C40; font-weight: bold;">Entrando na conta</h1>
                         </div>
 
                     </div>

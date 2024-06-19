@@ -17,12 +17,9 @@
             <div class="row">
 
                 <div class="col-sm-12">
-
-
-                    <?php require "cabecalho_pagina.php" ?>
-                    <h1>Bem-vindo!</h1>
-
-
+                    <img style="height: 130px;" src="imagens/reciclagem_maos.png" alt="Kattar Logo" class="img-fluid">
+                        <h1 style="color: #278C40;">Kattar</h1>
+                        <h1 style="font-weight: bold;">Bem-vindo!</h1>
                 </div>
 
                 <div class="col-sm-12">

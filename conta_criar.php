@@ -12,7 +12,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <h1>Escolha o seu perfil</h1>
+                    <h1 style="font-weight: bold;">Escolha o seu perfil</h1>
                 </div>
 
                 <div class="col-md-6">

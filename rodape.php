@@ -7,7 +7,7 @@
         <table style="width: 100%;">
             <tr style="width: 100%;">
                 <td style="width: 25%;"><a style="text-decoration: none; color: #000;" href="home.php"><i class="fa-solid fa-house"></i></a></td>
-                <td style="width: 25%;"> <a style="text-decoration: none; color: #000;" href="coleta_mostrar_locacalizacao.php"><i class="fa-solid fa-location-dot"></i></a></td>
+                <td style="width: 25%;"> <a style="text-decoration: none; color: #000;" href="locacalizacao_ecopontos.php"><i class="fa-solid fa-location-dot"></i></a></td>
                 <td style="width: 25%;"><a style="text-decoration: none; color: #000;" href="configuracoes.php"><i class="fa-solid fa-gear"></i></a></td>
             </tr>
         </table>
