@@ -29,7 +29,7 @@
             </div>
 
             <div class="col-md-4">
-                <input type="submit" class="btn btn-success" formaction="coleta_mostrar_locacalizacao.php"  value="Pontos de coleta" name="btLocalizacao" id="btLocalizacao"/>
+                <input type="submit" class="btn btn-success" formaction="localizacao_ecopontos.php"  value="Pontos de coleta" name="btLocalizacao" id="btLocalizacao"/>
             </div>
 
         </div>

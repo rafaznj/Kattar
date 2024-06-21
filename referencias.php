@@ -1,10 +1,17 @@
 <!-- REFERÊNCIAS PARA LINKS EXTERNOS, CSS, ETC -->
 
-<title>Kattar - SoluTech</title>
+<!-- Título da aplicação -->
+<title>Kattar - Solutech</title>
 
+<!-- Inclusão do script para localização -->
+<script src="localizacao.js"></script>
+
+<!-- Referências do bootstrap -->
 <link href="css/bootstrap.min.css" rel="stylesheet" />
-<link href="css/estilo.css" rel="stylesheet" />
 <script src="js/bootstrap.bundle.min.js"></script>
+
+<!-- FOLHA DE ESTILO DO APLICATIVO -->
+<link href="css/estilo.css" rel="stylesheet" />
 
 
 <!-- LINK PARA OS ICONES DO FONTAWESOME -->
