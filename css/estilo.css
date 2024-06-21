@@ -5,6 +5,7 @@ body {
     margin: 0;
     padding: 0;
     background-color: #f4f4f4;
+    
 }
 
 .container {
@@ -46,12 +47,6 @@ body {
     font-size: 1.2em;
 }
 
-/*
-.entrar button{
-    color: ;
-}
-*/
-
 input,button,select,textarea
 {
     margin-top:5px;
@@ -63,12 +58,16 @@ input[type="submit"]
     width: 100%;
 }
 
+input[type="button"]
+{
+    width: 100%;
+}
+
 
 #logoTopo
 {
     height: 64px;
 }
-
 
 
 
