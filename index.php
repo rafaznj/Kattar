@@ -6,8 +6,8 @@
     <meta name="viewport" content="width=" device-widt, initial-scale=1.0">
 
     <?php
-
-    require "referencias.php" ?>
+    require "referencias.php" 
+    ?>
 </head>
 
 <body>

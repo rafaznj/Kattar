@@ -1,9 +1,6 @@
 <!-- REFERÊNCIAS PARA LINKS EXTERNOS, CSS, ETC -->
 
-<title>Kattar - Solutech</title>
-
-
-
+<title>Kattar - SoluTech</title>
 
 <link href="css/bootstrap.min.css" rel="stylesheet" />
 <link href="css/estilo.css" rel="stylesheet" />
