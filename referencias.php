@@ -1,7 +1,7 @@
 <!-- REFERÊNCIAS PARA LINKS EXTERNOS, CSS, ETC -->
 
 <!-- Título da aplicação -->
-<title>Kattar - Solutech</title>
+<title>Kattar - SoluTech</title>
 
 <!-- Inclusão do script para localização -->
 <script src="localizacao.js"></script>

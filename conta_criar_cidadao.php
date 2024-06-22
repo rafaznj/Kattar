@@ -34,7 +34,7 @@
 
             <div class="row">
                 <div class="col-md-12" style="text-align: left;">
-                    <input formaction="home.php" type="submit" class="btn btn-success" value="Criar conta">
+                    <input formaction="principal.php" type="submit" class="btn btn-success" value="Criar conta">
                 </div>
             </div>
 

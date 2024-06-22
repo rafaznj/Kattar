@@ -37,7 +37,7 @@
                         <div class="col-md-12" style="text-align: left;">
 
 
-                            <input type="submit" class="btn btn-success" formaction="home.php" value="Entrar">
+                            <input type="submit" class="btn btn-success" formaction="principal.php" value="Entrar">
                         </div>
                     </div>
                     <div class="row">
