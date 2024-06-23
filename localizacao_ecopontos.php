@@ -11,6 +11,13 @@
 
 <body onload="getLocation()">
 
+                <!-- 
+                    ADICIONAR ESSAS FUNÇÕES:
+
+                   Seria bom ter uma forma simples da própria cooperativa adicionar seus ecopontos
+
+                -->
+
     <form name="localizacao" id="localizacao">
         <!-- AQUI OS CAMPOS SERÃO USADOS PARA CAPTURAR A LATITUDE E LONGITUDE E GUARDAR EM INPUTS ESCONDIDAS -->
         <?php
