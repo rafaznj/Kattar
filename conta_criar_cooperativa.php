@@ -38,7 +38,7 @@
             <div class="col-md-12" style="text-align: left;">
 
 
-                <input formaction="index.php" type="submit" class="btn btn-danger" value="Voltar">
+                <input formaction="conta_criar.php" type="submit" class="btn btn-danger" value="Voltar">
             </div>
         </div>
 
