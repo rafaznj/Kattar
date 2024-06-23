@@ -23,6 +23,12 @@
                 <div class="col-md-6">
                     <input type="submit" class="btn btn-success" value="Cidadão" formaction="conta_entrar_cidadao.php">
                 </div>
+
+                <div class="row">
+                        <div class="col-md-12" style="text-align: left;">
+                            <input formaction="index.php" type="submit" class="btn btn-danger" value="Voltar">
+                        </div>
+                    </div>
             </div>
         </div>
     </form>
