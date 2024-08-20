@@ -1,6 +1,4 @@
 # KATTAR
-![Kattar](https://github.com/rafaznj/Kattar/assets/163608557/9a8a7cf8-9d52-43fd-a95b-2d21f961deed)
-![Kattar](https://github.com/rafaznj/Kattar/assets/163608557/569e65a4-8ab2-472d-b12c-43e3279114aa)
 
 ## Origem
 Essa ideia surgiu a partir do [Desafio Liga Jovem](desafioligajovem.com.br), promovido pelo [Sebrae](https://sebrae.com.br/sites/PortalSebrae/). 
