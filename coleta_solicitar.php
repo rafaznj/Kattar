@@ -20,14 +20,24 @@
             </div>
 
             <div class="col-md-6">
+                <!-- 
+                    ADICIONAR ESSAS FUNÇÕES:
 
+                    Ficar a critério da cooperativa quais tipos de materiais elas recolhem, impactando na solicitação
+                    de coletas.
+
+                    Existirá três categorias principais: eletrodomésticos, eletrônicos e recicláveis.
+
+                    Quando o usuário escolher a categoria do seu material, irá aparece uma lista de exemplos de materiais,
+                    se o material não estiver de acordo, terá uma aba "outro" para poder informar qual é esse resíduo e
+                    ficará á critério da cooperativa aceitar ou não a coleta do mesmo.
+            
+                -->
                 <select name="materiais" class="form-control">
-                    <option>Selecione o tipo do material</option>
-                    <option style="background-color: #FFF500;">Metal</option>
-                    <option style="background-color: #0012FF;">Papel</option>
-                    <option style="background-color: #FF0000;">Plástico</option>
-                    <option style="background-color: #00FF0A;">Vidro</option>
-                    <option>Outro</option>
+                    <option>Selecione o tipo de resíduo</option>
+                    <option>Eletrodoméstico</option>
+                    <option>Eletrônico</option>
+                    <option>Reciclável</option>
                 </select>
 
             </div>

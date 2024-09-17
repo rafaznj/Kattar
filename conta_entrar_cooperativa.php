@@ -6,7 +6,15 @@
     <?php require "referencias.php" ?>
 </head>
 <body>
+                <!-- 
+                    ADICIONAR ESSAS FUNÇÕES:
 
+                    Fazer uma sessão administrativa para as cooperativas, diferente da área de usuário normal.
+                    Onde será possível verificar o histórico de coletas (realizadas, pendentes, recusadas).
+                    O quadro de associados.
+                    A listagem de aceitação para os materiais.
+
+                -->
 <div class="container">
         <form method="post">
 
