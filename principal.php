@@ -28,10 +28,6 @@
                 <input type="submit" class="btn btn-success" formaction="coleta_instrucoes.php" value="Instruções de descarte" />
             </div>
 
-            <div class="col-md-4">
-                <input type="submit" class="btn btn-success" formaction="localizacao_ecopontos.php"  value="Pontos de coleta" name="btLocalizacao" id="btLocalizacao"/>
-            </div>
-
         </div>
 
         <?php require "rodape.php" ?>

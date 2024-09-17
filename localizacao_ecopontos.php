@@ -5,8 +5,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <?php require "referencias.php" ?>
-
-
 </head>
 
 <body onload="getLocation()">
@@ -19,8 +17,10 @@
                 -->
 
     <form name="localizacao" id="localizacao">
+
         <!-- AQUI OS CAMPOS SERÃO USADOS PARA CAPTURAR A LATITUDE E LONGITUDE E GUARDAR EM INPUTS ESCONDIDAS -->
         <?php
+        
         $latitude = $_POST["txtLatitude"];
         $longitude = $_POST["txtLongitude"];
 
@@ -33,7 +33,6 @@
         <div class="container">
 
             <div class="row">
-
 
                 <?php require "cabecalho_pagina.php" ?>
 
@@ -60,6 +59,7 @@
         </div>
 
     </form>
+     ?>
 
 </body>
 </html>
