@@ -44,7 +44,7 @@
                         <div class="col-md-12" style="text-align: left;">
 
 
-                            <input formaction="conta_entrar.php" type="submit" class="btn btn-danger" value="Voltar">
+                            <input formaction="conta_entrar.php" type="submit" class="btn btn-danger" value="Cancelar">
                         </div>
                     </div>
                 </div>
